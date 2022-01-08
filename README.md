@@ -1,1 +1,1 @@
-# Decentralized-Voting-Website
+# Decentralized Voting
