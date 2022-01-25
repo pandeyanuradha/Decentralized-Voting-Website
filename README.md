@@ -44,6 +44,19 @@ npm install
 npm start
 ```
 
+## Working of Decentralized Voting Website
+
+1. Ganache workspace
+ 
+<!-- <img src="https://github.com/pandeyanuradha/Decentralized-Voting-Website/blob/b5c495190ebf4219b5faafa9676e15ae6847fbc4/images/image1.png" width="500" />
+ -->
+![image description](images/image1.png)
+
+2. Admin will create a voting instance by launching/deploying the system in a blockchain network (EVM), then create an election instance and start the election with the details of the election filled in (including candidates for voters to vote). On startup, the homepage is displayed.
+
+![image description](images/image2.png)
+![image description](images/image3.png)
+
 
 
  
