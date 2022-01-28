@@ -48,14 +48,38 @@ npm start
 
 1. Ganache workspace
  
-<!-- <img src="https://github.com/pandeyanuradha/Decentralized-Voting-Website/blob/b5c495190ebf4219b5faafa9676e15ae6847fbc4/images/image1.png" width="500" />
- -->
-![image description](images/image1.png)
+<img src="https://github.com/pandeyanuradha/Decentralized-Voting-Website/blob/b5c495190ebf4219b5faafa9676e15ae6847fbc4/images/image3.png" height = "350" width="650" />
 
 2. Admin will create a voting instance by launching/deploying the system in a blockchain network (EVM), then create an election instance and start the election with the details of the election filled in (including candidates for voters to vote). On startup, the homepage is displayed.
 
-![image description](images/image2.png)
-![image description](images/image3.png)
+<img src="https://github.com/pandeyanuradha/Decentralized-Voting-Website/blob/b5c495190ebf4219b5faafa9676e15ae6847fbc4/images/image8.png" height = "350" width="650" />
+<img src="https://github.com/pandeyanuradha/Decentralized-Voting-Website/blob/b5c495190ebf4219b5faafa9676e15ae6847fbc4/images/image3.png" height = "350" width="650" />
+
+3. Metamask deduction for admin.
+
+<img src="https://github.com/pandeyanuradha/Decentralized-Voting-Website/blob/b5c495190ebf4219b5faafa9676e15ae6847fbc4/images/image6.png" height = "450" width="650" />
+
+4. Add candidates
+
+<img src="https://github.com/pandeyanuradha/Decentralized-Voting-Website/blob/b5c495190ebf4219b5faafa9676e15ae6847fbc4/images/image2.png" height = "350" width="650" />
+
+5. The voters can register through the registration portal
+
+<img src="https://github.com/pandeyanuradha/Decentralized-Voting-Website/blob/b5c495190ebf4219b5faafa9676e15ae6847fbc4/images/image5.png" height = "350" width="650" />
+
+6. Admin approves the voter
+
+<img src="https://github.com/pandeyanuradha/Decentralized-Voting-Website/blob/b5c495190ebf4219b5faafa9676e15ae6847fbc4/images/image9.png" height = "350" width="650" />
+
+7. Cast their votes
+
+<img src="https://github.com/pandeyanuradha/Decentralized-Voting-Website/blob/b5c495190ebf4219b5faafa9676e15ae6847fbc4/images/image4.png" height = "350" width="650" />
+
+8. After some time, depending on the scale of the election the admin ends the election. As that happens the voting is closed and the results are displayed announcing the winner at the top of the results page. Election Results are displayed.
+
+<img src="https://github.com/pandeyanuradha/Decentralized-Voting-Website/blob/b5c495190ebf4219b5faafa9676e15ae6847fbc4/images/image1.png" height = "350" width="650" />
+
+
 
 
 
